@@ -9,7 +9,7 @@ Prepare-se para uma jornada prática pelo mundo da Ciência de Dados!
 Vamos construir um pipeline ETL (Extração, Transformação e Carregamento), demonstrando a relação entre dados, Inteligência Artificial (IA) e APIs.
 
 
-##Entendendo o Desafio
+## Entendendo o Desafio
 O desafio é reimaginar esse processo de ETL. Como vocês aplicariam o que aprenderam em um novo domínio de aplicação, sem depender diretamente de APIs externas (caso queiram simplificar)? Pensem nas infinitas possibilidades e domínios que podem ser explorados, e deixem a criatividade fluir!**
 
 #Conjunto de dados de Marketing Bancário
